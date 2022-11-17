@@ -5,6 +5,7 @@ use App\Http\Livewire\Home\Inicio;
 use App\Http\Livewire\Home\PaginaInicial;
 use App\Http\Livewire\Productos\Productos;
 use App\Http\Livewire\Nosotros\Nosotros;
+use App\Http\Livewire\Compras\CaritoCompra;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -30,3 +31,4 @@ Route::get('/home', Inicio::class);
 Route::get('/inicio',PaginaInicial ::class);
 Route::get('/productos', Productos::class);
 Route::get('/nosotros', Nosotros::class);
+Route::get('/carro_compras', CaritoCompra::class);

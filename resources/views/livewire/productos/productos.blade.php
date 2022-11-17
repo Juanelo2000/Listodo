@@ -150,6 +150,7 @@
 
             .btn:hover .shopping-cart {
                 transform: translateX(0%);
+                color: white;
             }
 
 
@@ -202,11 +203,248 @@
             .product-image:hover img {
                 transform: scale(1.2, 1.2);
             }
-            .productos{
+
+            .productos {
                 padding-left: 200px;
                 padding-right: 200px;
             }
+
+            .row {
+                --bs-gutter-x: 0 !important;
+            }
         </style>
+        <div class="row productos">
+            <div class="col-md-4">
+                <div id="container">
+                    <div class="product-details">
+                        <h1>LAVAMANOS Y MUEBLES DE BAÑO</h1>
+                        <span class="hint-star star">
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                        </span>
+                        <p class="information">"El mueble es el complemento ideal que le brindará a tu baño el toque de
+                            calidez, elegancia y funcionalidad.
+                            Te proponemos diversidad de acabados, medidas y diseños modernos.</p>
+                        <div class="control">
+                            <button class="btn">
+                                <span class="price">$250</span>
+                                <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
+                                <span class="buy">Añadir al carrito</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="product-image">
+                        <img src="3.jpg" alt="">
+                        <div class="info">
+                            <h2> Description</h2>
+                            <ul>
+                                <li><strong>Height : </strong>5 Ft </li>
+                                <li><strong>Shade : </strong>Olive green</li>
+                                <li><strong>Decoration: </strong>balls and bells</li>
+                                <li><strong>Material: </strong>Eco-Friendly</li>
+
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div id="container">
+                    <div class="product-details">
+                        <h1>CHRISTMAS TREE</h1>
+                        <span class="hint-star star">
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star-o" aria-hidden="true"></i>
+                        </span>
+                        <p class="information">" Let's spread the joy , here is Christmas , the most awaited day of the
+                            year.Christmas Tree is what one need the most. Here is the correct tree which will enhance your
+                            Christmas.</p>
+                        <div class="control">
+                            <button class="btn">
+                                <span class="price">$250</span>
+                                <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
+                                <span class="buy">Añadir al carrito</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="product-image">
+                        <img src="4.jpg" alt="">
+                        <div class="info">
+                            <h2> Description</h2>
+                            <ul>
+                                <li><strong>Height : </strong>5 Ft </li>
+                                <li><strong>Shade : </strong>Olive green</li>
+                                <li><strong>Decoration: </strong>balls and bells</li>
+                                <li><strong>Material: </strong>Eco-Friendly</li>
+
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div id="container">
+                    <div class="product-details">
+                        <h1>CHRISTMAS TREE</h1>
+                        <span class="hint-star star">
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star-o" aria-hidden="true"></i>
+                        </span>
+                        <p class="information">" Let's spread the joy , here is Christmas , the most awaited day of the
+                            year.Christmas Tree is what one need the most. Here is the correct tree which will enhance your
+                            Christmas.</p>
+                        <div class="control">
+                            <button class="btn">
+                                <span class="price">$250</span>
+                                <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
+                                <span class="buy">Get now</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="product-image">
+                        <img src="5.jpg" alt="">
+                        <div class="info">
+                            <h2> Description</h2>
+                            <ul>
+                                <li><strong>Height : </strong>5 Ft </li>
+                                <li><strong>Shade : </strong>Olive green</li>
+                                <li><strong>Decoration: </strong>balls and bells</li>
+                                <li><strong>Material: </strong>Eco-Friendly</li>
+
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+        <div class="row productos">
+            <div class="col-md-4">
+                <div id="container">
+                    <div class="product-details">
+                        <h1>CHRISTMAS TREE</h1>
+                        <span class="hint-star star">
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star-o" aria-hidden="true"></i>
+                        </span>
+                        <p class="information">" Let's spread the joy , here is Christmas , the most awaited day of the
+                            year.Christmas Tree is what one need the most. Here is the correct tree which will enhance your
+                            Christmas.</p>
+                        <div class="control">
+                            <button class="btn">
+                                <span class="price">$250</span>
+                                <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
+                                <span class="buy">Get now</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="product-image">
+                        <img src="1.jpg" alt="">
+                        <div class="info">
+                            <h2> Description</h2>
+                            <ul>
+                                <li><strong>Height : </strong>5 Ft </li>
+                                <li><strong>Shade : </strong>Olive green</li>
+                                <li><strong>Decoration: </strong>balls and bells</li>
+                                <li><strong>Material: </strong>Eco-Friendly</li>
+
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div id="container">
+                    <div class="product-details">
+                        <h1>CHRISTMAS TREE</h1>
+                        <span class="hint-star star">
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star-o" aria-hidden="true"></i>
+                        </span>
+                        <p class="information">" Let's spread the joy , here is Christmas , the most awaited day of the
+                            year.Christmas Tree is what one need the most. Here is the correct tree which will enhance your
+                            Christmas.</p>
+                        <div class="control">
+                            <button class="btn">
+                                <span class="price">$250</span>
+                                <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
+                                <span class="buy">Añadir al carrito</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="product-image">
+                        <img src="2.jpg" alt="">
+                        <div class="info">
+                            <h2> Description</h2>
+                            <ul>
+                                <li><strong>Height : </strong>5 Ft </li>
+                                <li><strong>Shade : </strong>Olive green</li>
+                                <li><strong>Decoration: </strong>balls and bells</li>
+                                <li><strong>Material: </strong>Eco-Friendly</li>
+
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div id="container">
+                    <div class="product-details">
+                        <h1>CHRISTMAS TREE</h1>
+                        <span class="hint-star star">
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star-o" aria-hidden="true"></i>
+                        </span>
+                        <p class="information">" Let's spread the joy , here is Christmas , the most awaited day of the
+                            year.Christmas Tree is what one need the most. Here is the correct tree which will enhance your
+                            Christmas.</p>
+                        <div class="control">
+                            <button class="btn">
+                                <span class="price">$250</span>
+                                <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
+                                <span class="buy">Get now</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="product-image">
+                        <img src="6.jpg" alt="">
+                        <div class="info">
+                            <h2> Description</h2>
+                            <ul>
+                                <li><strong>Height : </strong>5 Ft </li>
+                                <li><strong>Shade : </strong>Olive green</li>
+                                <li><strong>Decoration: </strong>balls and bells</li>
+                                <li><strong>Material: </strong>Eco-Friendly</li>
+
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
         <div class="row productos">
             <div class="col-md-4">
                 <div id="container">
