@@ -212,6 +212,26 @@
             .row {
                 --bs-gutter-x: 0 !important;
             }
+            
+            @media (max-width: 1970px) {
+                .productos {
+                padding-left: 100px;
+                padding-right: 100px;
+            }
+            }
+            @media (max-width: 1760px) {
+                .productos {
+                padding-left: 50px;
+                padding-right: 50px;
+            }
+            }
+            @media (max-width: 1650px) {
+                #container {
+                width: 400px;
+
+
+            }
+            }
         </style>
         <div class="row productos">
             <div class="col-md-4">
@@ -225,12 +245,12 @@
                         </span>
                         <p class="information">"El mueble es el complemento ideal que le brindará a tu baño el toque de
                             calidez, elegancia y funcionalidad.
-                            Te proponemos diversidad de acabados, medidas y diseños modernos.</p>
+                            Te proponemos diversidad</p>
                         <div class="control">
                             <button class="btn">
                                 <span class="price">$250</span>
                                 <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
-                                <span class="buy">Añadir al carrito</span>
+                                <span class="buy">Comprar</span>
                             </button>
                         </div>
                     </div>
@@ -268,7 +288,7 @@
                             <button class="btn">
                                 <span class="price">$250</span>
                                 <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
-                                <span class="buy">Añadir al carrito</span>
+                                <span class="buy">Comprar</span>
                             </button>
                         </div>
                     </div>
@@ -306,7 +326,7 @@
                             <button class="btn">
                                 <span class="price">$250</span>
                                 <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
-                                <span class="buy">Get now</span>
+                                <span class="buy">Comprar</span>
                             </button>
                         </div>
                     </div>
@@ -347,7 +367,7 @@
                             <button class="btn">
                                 <span class="price">$250</span>
                                 <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
-                                <span class="buy">Get now</span>
+                                <span class="buy">Comprar</span>
                             </button>
                         </div>
                     </div>
@@ -385,7 +405,7 @@
                             <button class="btn">
                                 <span class="price">$250</span>
                                 <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
-                                <span class="buy">Añadir al carrito</span>
+                                <span class="buy">Comprar</span>
                             </button>
                         </div>
                     </div>
@@ -423,7 +443,7 @@
                             <button class="btn">
                                 <span class="price">$250</span>
                                 <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
-                                <span class="buy">Get now</span>
+                                <span class="buy">Comprar</span>
                             </button>
                         </div>
                     </div>
@@ -464,7 +484,7 @@
                             <button class="btn">
                                 <span class="price">$250</span>
                                 <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
-                                <span class="buy">Get now</span>
+                                <span class="buy">Comprar</span>
                             </button>
                         </div>
                     </div>
@@ -503,7 +523,7 @@
                             <button class="btn">
                                 <span class="price">$250</span>
                                 <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
-                                <span class="buy">Añadir al carrito</span>
+                                <span class="buy">Comprar</span>
                             </button>
                         </div>
                     </div>
@@ -542,7 +562,7 @@
                             <button class="btn">
                                 <span class="price">$250</span>
                                 <span class="shopping-cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></span>
-                                <span class="buy">Get now</span>
+                                <span class="buy">Comprar</span>
                             </button>
                         </div>
                     </div>

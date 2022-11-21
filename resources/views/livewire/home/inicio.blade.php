@@ -358,7 +358,7 @@
                             </div>
                             <hr class="mt-1 mb-3">
 
-                            <div class="row d-flex"><h6 class="text-start" style="width:170px"  ><strong>Total:</strong> 0$</h6><button class="btn" style="width:100px">Ir a pagar</button></div>
+                            <div class="row d-flex"><h6 class="text-start" style="width:170px"  ><strong>Total:</strong> 1000$</h6><button class="btn" onclick="window.location.href='/carro_compras'" style="width:80px">Ir a pagar</button></div>
                             
 
                         </div>
