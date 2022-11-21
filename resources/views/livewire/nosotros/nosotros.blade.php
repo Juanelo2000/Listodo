@@ -1,5 +1,4 @@
-@section('content')
-    <div>
+<div>
         <style>
               .row {
                 --bs-gutter-x: 0 !important;
@@ -83,5 +82,5 @@
                 <div class="col-md-1"></div>
             </div>
         </section>
-    </div>
-@endsection
+</div>
+
